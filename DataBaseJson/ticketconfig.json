@@ -1,0 +1,52 @@
+{
+  "titulo": "Ticket Suporte",
+  "descricao": "Clique no botão abaixo e escolha o motivo pelo qual quer abrir o ticket que iremos te ajudar!",
+  "embed": true,
+  "url_banner": "https://cdn.discordapp.com/attachments/1483455205860446249/1483614102558478437/file_0000000053b0720ea13fc9ad5b6466ee.png?ex=69bb3ace&is=69b9e94e&hm=4a5d78fd7c669a11677e35523437c516aafbc028cf2a6104e81dd1d37477da85&",
+  "url_thumbnail": "https://cdn.discordapp.com/attachments/1483455205860446249/1483614102558478437/file_0000000053b0720ea13fc9ad5b6466ee.png?ex=69bb3ace&is=69b9e94e&hm=4a5d78fd7c669a11677e35523437c516aafbc028cf2a6104e81dd1d37477da85&",
+  "modo": "select_menu",
+  "funcoes": [
+    {
+      "label": "Problema",
+      "id": "problema",
+      "style": "Primary",
+      "description": "Clique aqui para te ajudarmos com seu problema",
+      "emoji": "🔵"
+    },
+    {
+      "label": "Reembolso",
+      "id": "reembolso",
+      "style": "Danger",
+      "description": "Clique aqui caso para te ajudarmos com seu reembolso",
+      "emoji": "🔴"
+    },
+    {
+      "label": "Cargo",
+      "id": "cargo",
+      "style": "Success",
+      "description": "Clique aqui para reinvindicar seu cargo, seja por Partidas ou Pontos",
+      "emoji": "🟢"
+    },
+    {
+      "label": "Dúvida",
+      "id": "duvida",
+      "style": "Secondary",
+      "description": "Clique aqui para te ajudarmos com sua dúvida",
+      "emoji": "🟠"
+    },
+    {
+      "label": "Parceria",
+      "id": "parceria",
+      "style": "Secondary",
+      "description": "Clique aqui para fazer parceria conosco",
+      "emoji": "🟡"
+    },
+    {
+      "label": "Influenciador",
+      "id": "influenciador",
+      "style": "Secondary",
+      "description": "Clique caso queira ser um influenciador da nossa org",
+      "emoji": "🟣"
+    }
+  ]
+}
