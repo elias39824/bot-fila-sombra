@@ -1,0 +1,12 @@
+{
+  "embed": {
+    "titulo": "Verifique-se",
+    "desc": "teste",
+    "cor": "#2b2d31"
+  },
+  "botao": {
+    "nome": "teste",
+    "cor": "verde",
+    "emoji": ""
+  }
+}
