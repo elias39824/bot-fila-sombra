@@ -1,0 +1,16 @@
+{
+  "1356400890977980548": {
+    "entradas": 7,
+    "saidas": 6,
+    "tempoTotal": 136548,
+    "ultimaEntrada": "2026-01-04T05:20:49.302Z",
+    "ultimaSaida": "2026-01-04T05:01:02.246Z"
+  },
+  "990292313978863658": {
+    "entradas": 3,
+    "saidas": 4,
+    "tempoTotal": 1617,
+    "ultimaEntrada": "2026-01-04T04:54:11.571Z",
+    "ultimaSaida": "2026-01-04T05:20:45.023Z"
+  }
+}
