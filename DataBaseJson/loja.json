@@ -1,0 +1,15 @@
+{
+  "itens": {
+    "item_1768014514724_brr43yygj": {
+      "nome": "teste",
+      "descricao": "teste",
+      "preco": 1,
+      "emoji": "🎁",
+      "tipo": "decorativo",
+      "estoque": -1,
+      "categoria": "decorativo",
+      "criadoPor": "1356400890977980548",
+      "criadoEm": "2026-01-10T03:08:34.724Z"
+    }
+  }
+}
