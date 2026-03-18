@@ -1,0 +1,5883 @@
+{
+  "1456649523580375154": {
+    "valor": "0,50",
+    "modo": "1x1",
+    "jogadores": [
+      "1356400890977980548",
+      "1371595950568640604"
+    ],
+    "status": "iniciada",
+    "id_mediador": "990292313978863658"
+  },
+  "1456674649999016017": {
+    "valor": "0,50",
+    "modo": "1x1",
+    "jogadores": [
+      "1356400890977980548",
+      "1371595950568640604"
+    ],
+    "status": "iniciada",
+    "id_mediador": "1356400890977980548"
+  },
+  "1456722821756752155": {
+    "valor": "100,00",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456722823358976030": {
+    "valor": "75,00",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456722824541638738": {
+    "valor": "50,00",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456722827507007622": {
+    "valor": "25,00",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456722830338035890": {
+    "valor": "20,00",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456722832825389107": {
+    "valor": "15,00",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456722840429662328": {
+    "valor": "10,00",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456722843126468793": {
+    "valor": "5,00",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456722845131608217": {
+    "valor": "50,00",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456722847383945338": {
+    "valor": "4,00",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456722852781756701": {
+    "valor": "50,00",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456722854241632493": {
+    "valor": "3,00",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456722873933889627": {
+    "valor": "50,00",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456722876328710409": {
+    "valor": "2,00",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456722879134568448": {
+    "valor": "50,00",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456722881512996914": {
+    "valor": "2,00",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456722882943123462": {
+    "valor": "1,00",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456722890366910658": {
+    "valor": "50,00",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456722894758481952": {
+    "valor": "1,00",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456722896549318716": {
+    "valor": "75,00",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456722898982015086": {
+    "valor": "50,00",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723035401883746": {
+    "valor": "100,00",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723037536915724": {
+    "valor": "75,00",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723047779406087": {
+    "valor": "50,00",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723051373920540": {
+    "valor": "25,00",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723053525340190": {
+    "valor": "20,00",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723058822873179": {
+    "valor": "15,00",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723060659847265": {
+    "valor": "10,00",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723064686383145": {
+    "valor": "5,00",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723066074697890": {
+    "valor": "50,00",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723073775439885": {
+    "valor": "4,00",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723077147791577": {
+    "valor": "50,00",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723078682906837": {
+    "valor": "3,00",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723080175943881": {
+    "valor": "50,00",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723081149153473": {
+    "valor": "2,00",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723082877210634": {
+    "valor": "50,00",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723103919898719": {
+    "valor": "2,00",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723108726575198": {
+    "valor": "1,00",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723111788548117": {
+    "valor": "50,00",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723113558409287": {
+    "valor": "1,00",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723115378868276": {
+    "valor": "75,00",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723119531233410": {
+    "valor": "50,00",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723204767744205": {
+    "valor": "100,00",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723208966242307": {
+    "valor": "75,00",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723211571167506": {
+    "valor": "50,00",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723214129430772": {
+    "valor": "25,00",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723216985882841": {
+    "valor": "20,00",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723218890096724": {
+    "valor": "15,00",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723220551176326": {
+    "valor": "10,00",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723222006599793": {
+    "valor": "5,00",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723223310762116": {
+    "valor": "50,00",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723252985598037": {
+    "valor": "4,00",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723257804849244": {
+    "valor": "50,00",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723261856547036": {
+    "valor": "3,00",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723264486248449": {
+    "valor": "50,00",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723265769963663": {
+    "valor": "2,00",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723267229450552": {
+    "valor": "50,00",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723268605313208": {
+    "valor": "2,00",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723270501011657": {
+    "valor": "1,00",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723272426193017": {
+    "valor": "50,00",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723303753322627": {
+    "valor": "1,00",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723305854799984": {
+    "valor": "75,00",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723307914334475": {
+    "valor": "50,00",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723853412667623": {
+    "valor": "100,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723854415368335": {
+    "valor": "75,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723857820876811": {
+    "valor": "50,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723867266715778": {
+    "valor": "25,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723869238038713": {
+    "valor": "20,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723870865424499": {
+    "valor": "15,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723872408932483": {
+    "valor": "10,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723876934451404": {
+    "valor": "5,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723878637469820": {
+    "valor": "50,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723881573224639": {
+    "valor": "4,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723883653726320": {
+    "valor": "50,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723903085809837": {
+    "valor": "3,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723904877035601": {
+    "valor": "50,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723907624304762": {
+    "valor": "2,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723915505143830": {
+    "valor": "50,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723918739214571": {
+    "valor": "2,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723920152559767": {
+    "valor": "1,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723922002116753": {
+    "valor": "50,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723923403014371": {
+    "valor": "1,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723926834090006": {
+    "valor": "75,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723930638319830": {
+    "valor": "50,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723943892324433": {
+    "valor": "100,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723944886501438": {
+    "valor": "75,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723946287399047": {
+    "valor": "50,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723948472373411": {
+    "valor": "25,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723950334906409": {
+    "valor": "20,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723954097193163": {
+    "valor": "15,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723956106002526": {
+    "valor": "10,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723981225689303": {
+    "valor": "5,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723983494811699": {
+    "valor": "50,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723985642291343": {
+    "valor": "4,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723987601166581": {
+    "valor": "50,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723988930887681": {
+    "valor": "3,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723990340174016": {
+    "valor": "50,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456723998640705696": {
+    "valor": "2,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724023013802094": {
+    "valor": "50,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724024813158562": {
+    "valor": "2,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724026184433925": {
+    "valor": "1,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724027333808303": {
+    "valor": "50,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724029519040524": {
+    "valor": "1,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724033184858204": {
+    "valor": "75,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724035164704972": {
+    "valor": "50,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724051312771137": {
+    "valor": "100,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724053145682173": {
+    "valor": "75,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724055653875712": {
+    "valor": "50,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724057088331829": {
+    "valor": "25,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724059323764868": {
+    "valor": "20,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724062582734990": {
+    "valor": "15,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724063904075949": {
+    "valor": "10,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724085009551672": {
+    "valor": "5,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724086758838627": {
+    "valor": "50,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724088767647775": {
+    "valor": "4,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724091833946153": {
+    "valor": "50,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724093406543942": {
+    "valor": "3,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724095189389382": {
+    "valor": "50,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724097923813559": {
+    "valor": "2,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724112700604437": {
+    "valor": "50,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724114797498418": {
+    "valor": "2,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724116026687735": {
+    "valor": "1,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724121994920159": {
+    "valor": "50,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724127217094666": {
+    "valor": "100,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724127615422576": {
+    "valor": "1,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724128722714645": {
+    "valor": "75,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724129553322126": {
+    "valor": "75,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724130173947956": {
+    "valor": "50,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724131717451878": {
+    "valor": "25,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724134548471959": {
+    "valor": "20,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724131180581016": {
+    "valor": "50,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724135936917597": {
+    "valor": "15,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724136901742926": {
+    "valor": "10,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724159064444929": {
+    "valor": "5,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724161098678435": {
+    "valor": "50,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724162956755087": {
+    "valor": "4,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724174444691598": {
+    "valor": "50,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724178228220207": {
+    "valor": "3,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724181902426142": {
+    "valor": "50,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724182376120382": {
+    "valor": "100,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724183391273173": {
+    "valor": "2,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724185584762997": {
+    "valor": "50,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724187447037996": {
+    "valor": "2,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724184028811453": {
+    "valor": "75,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724190051696640": {
+    "valor": "50,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724189753905234": {
+    "valor": "1,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724191381426383": {
+    "valor": "50,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724190932504803": {
+    "valor": "25,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724193373851790": {
+    "valor": "20,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724196250882325": {
+    "valor": "15,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724192606294242": {
+    "valor": "1,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724199052804097": {
+    "valor": "10,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724200445444118": {
+    "valor": "5,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724201712128114": {
+    "valor": "50,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724222692036740": {
+    "valor": "75,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724223929352335": {
+    "valor": "50,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724224269090858": {
+    "valor": "4,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724226261254297": {
+    "valor": "50,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724229545525461": {
+    "valor": "3,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724231407800532": {
+    "valor": "50,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724232791654443": {
+    "valor": "2,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724234318381330": {
+    "valor": "50,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724237657178173": {
+    "valor": "100,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724240211640432": {
+    "valor": "75,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724235774070957": {
+    "valor": "2,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724242006675486": {
+    "valor": "50,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724243411632250": {
+    "valor": "25,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724245068644499": {
+    "valor": "20,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724247643820104": {
+    "valor": "15,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724249174872064": {
+    "valor": "10,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724261057335346": {
+    "valor": "1,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724262474743991": {
+    "valor": "50,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724263783497789": {
+    "valor": "1,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724270544851037": {
+    "valor": "75,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724273543774210": {
+    "valor": "50,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724270943178882": {
+    "valor": "5,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724278064976164": {
+    "valor": "50,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724284167950336": {
+    "valor": "4,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724286978134231": {
+    "valor": "50,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724288911577270": {
+    "valor": "3,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724292015357994": {
+    "valor": "50,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724293130911757": {
+    "valor": "2,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724296243220480": {
+    "valor": "50,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724298101297152": {
+    "valor": "2,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724299690803313": {
+    "valor": "1,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724325573857453": {
+    "valor": "50,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724327473872966": {
+    "valor": "1,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724332305846395": {
+    "valor": "75,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456724334453198960": {
+    "valor": "50,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456725733933056092": {
+    "valor": "100,00",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456725735782748341": {
+    "valor": "75,00",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456725738676814108": {
+    "valor": "50,00",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456725745089908808": {
+    "valor": "25,00",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456725746797252781": {
+    "valor": "20,00",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456725748382437519": {
+    "valor": "10,00",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456725751033233632": {
+    "valor": "5,50",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456725755362017542": {
+    "valor": "4,50",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456725756657930273": {
+    "valor": "3,50",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456725759711383734": {
+    "valor": "2,50",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456725762278162442": {
+    "valor": "2,00",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456725783363195083": {
+    "valor": "1,50",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456725785741365502": {
+    "valor": "1,00",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456725789553725685": {
+    "valor": "0,75",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456725796537372877": {
+    "valor": "0,50",
+    "modo": "1x1",
+    "canalId": "1456707516061847604",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456726846954541382": {
+    "valor": "100,00",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456726848871600345": {
+    "valor": "75,00",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456726851883110421": {
+    "valor": "50,00",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456726862196773074": {
+    "valor": "25,00",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456726865686560899": {
+    "valor": "20,00",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456726869042008320": {
+    "valor": "10,00",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456726872653037699": {
+    "valor": "5,50",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456726874318307372": {
+    "valor": "4,50",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456726876050686088": {
+    "valor": "3,50",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456726880504774810": {
+    "valor": "2,50",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456726881817595947": {
+    "valor": "2,00",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456726884326052012": {
+    "valor": "1,50",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456726886322536540": {
+    "valor": "1,00",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456726906236829952": {
+    "valor": "0,75",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456726915971944448": {
+    "valor": "0,50",
+    "modo": "1x1",
+    "canalId": "1456707527847837933",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456726920392609864": {
+    "valor": "100,00",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456726923794448435": {
+    "valor": "75,00",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456726925228769383": {
+    "valor": "50,00",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456726928768893030": {
+    "valor": "25,00",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456726931205787659": {
+    "valor": "20,00",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456726934557032449": {
+    "valor": "10,00",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456726936012460188": {
+    "valor": "5,50",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456726937534861548": {
+    "valor": "4,50",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456726939527024772": {
+    "valor": "3,50",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456726966232158280": {
+    "valor": "2,50",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456726968073715918": {
+    "valor": "2,00",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456726969667289350": {
+    "valor": "1,50",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456726971735343179": {
+    "valor": "1,00",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456726974243537039": {
+    "valor": "0,75",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456726975728058431": {
+    "valor": "0,50",
+    "modo": "1x1",
+    "canalId": "1456707548525760686",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727013736976557": {
+    "valor": "100,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727017792868473": {
+    "valor": "75,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727019428646942": {
+    "valor": "50,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727021517279465": {
+    "valor": "25,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727029578862684": {
+    "valor": "20,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727031290003612": {
+    "valor": "10,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727032347103334": {
+    "valor": "5,50",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727033735549009": {
+    "valor": "4,50",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727035102892073": {
+    "valor": "3,50",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727038076518525": {
+    "valor": "2,50",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727064035201164": {
+    "valor": "2,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727068300673118": {
+    "valor": "100,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727065872171143": {
+    "valor": "1,50",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727071853117681": {
+    "valor": "1,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727073577111623": {
+    "valor": "0,75",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727075749756940": {
+    "valor": "0,50",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727069453979730": {
+    "valor": "75,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727077901570250": {
+    "valor": "50,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727079981814044": {
+    "valor": "25,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727083261624487": {
+    "valor": "20,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727086466334821": {
+    "valor": "10,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727089737896038": {
+    "valor": "5,50",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727091360825458": {
+    "valor": "4,50",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727094229729456": {
+    "valor": "3,50",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727097237049477": {
+    "valor": "2,50",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727100126920734": {
+    "valor": "2,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727102026944674": {
+    "valor": "1,50",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727122553868354": {
+    "valor": "1,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727125141753956": {
+    "valor": "0,75",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727127125917708": {
+    "valor": "0,50",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727131143934053": {
+    "valor": "100,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727132746154177": {
+    "valor": "75,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727133584887964": {
+    "valor": "50,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727135640096799": {
+    "valor": "25,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727138508996872": {
+    "valor": "20,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727141080371290": {
+    "valor": "10,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727142321750177": {
+    "valor": "5,50",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727165629366282": {
+    "valor": "4,50",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727166833131595": {
+    "valor": "3,50",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727170683637772": {
+    "valor": "2,50",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727173452005447": {
+    "valor": "2,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727174919880747": {
+    "valor": "1,50",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727176727629909": {
+    "valor": "1,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727179739005090": {
+    "valor": "0,75",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727180926124290": {
+    "valor": "0,50",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727215659028563": {
+    "valor": "100,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727216892416172": {
+    "valor": "75,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727219052351722": {
+    "valor": "50,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727223733325905": {
+    "valor": "25,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727225373294844": {
+    "valor": "20,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727227512127510": {
+    "valor": "10,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727229546496232": {
+    "valor": "5,50",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727231198920840": {
+    "valor": "4,50",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727251457671189": {
+    "valor": "3,50",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727262295621653": {
+    "valor": "2,50",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727265550270656": {
+    "valor": "2,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727267399962821": {
+    "valor": "1,50",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727268570435738": {
+    "valor": "1,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727270373982404": {
+    "valor": "0,75",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727274782068892": {
+    "valor": "0,50",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727276694802432": {
+    "valor": "100,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727279110590726": {
+    "valor": "75,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727281153081394": {
+    "valor": "50,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727284089356471": {
+    "valor": "25,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727287129968721": {
+    "valor": "20,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727288665346245": {
+    "valor": "10,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727290703778016": {
+    "valor": "5,50",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727292930818183": {
+    "valor": "4,50",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727313105293515": {
+    "valor": "3,50",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727315861213295": {
+    "valor": "2,50",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727317073104949": {
+    "valor": "2,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727318805348504": {
+    "valor": "1,50",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727320730664960": {
+    "valor": "1,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727326170812488": {
+    "valor": "0,75",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727328074891296": {
+    "valor": "0,50",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727336522219616": {
+    "valor": "100,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727339227545939": {
+    "valor": "75,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727341412782365": {
+    "valor": "50,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727342822064208": {
+    "valor": "25,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727344445259919": {
+    "valor": "20,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727346164928614": {
+    "valor": "10,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727349180629206": {
+    "valor": "5,50",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727351567323157": {
+    "valor": "4,50",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727383016214672": {
+    "valor": "3,50",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727384224039003": {
+    "valor": "2,50",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727385331466548": {
+    "valor": "2,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727387164119202": {
+    "valor": "1,50",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727390289133801": {
+    "valor": "1,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727391903813673": {
+    "valor": "0,75",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727394210676819": {
+    "valor": "0,50",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727424191565948": {
+    "valor": "100,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727433175765136": {
+    "valor": "75,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727435730096179": {
+    "valor": "50,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727437265342701": {
+    "valor": "25,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727438510784704": {
+    "valor": "20,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727440499015929": {
+    "valor": "10,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727442759618611": {
+    "valor": "5,50",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727444223426680": {
+    "valor": "4,50",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727472849817873": {
+    "valor": "3,50",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727475458670674": {
+    "valor": "2,50",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727477928984731": {
+    "valor": "2,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727481171185744": {
+    "valor": "1,50",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727482303643819": {
+    "valor": "1,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727484522561699": {
+    "valor": "0,75",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727487374430311": {
+    "valor": "0,50",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727533847576607": {
+    "valor": "100,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727537185980528": {
+    "valor": "75,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727539044319506": {
+    "valor": "50,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727540856131738": {
+    "valor": "25,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727542479458379": {
+    "valor": "20,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727544962486465": {
+    "valor": "10,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727552159776933": {
+    "valor": "5,50",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727553820725461": {
+    "valor": "4,50",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727561143975987": {
+    "valor": "3,50",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727564717523101": {
+    "valor": "2,50",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727568412839968": {
+    "valor": "2,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727574871932939": {
+    "valor": "1,50",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727576990191709": {
+    "valor": "1,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727579003322398": {
+    "valor": "0,75",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727580311945366": {
+    "valor": "0,50",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727643058602139": {
+    "valor": "100,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727645369925814": {
+    "valor": "75,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727647240589399": {
+    "valor": "50,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727650570604694": {
+    "valor": "25,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727652378607810": {
+    "valor": "20,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727665426960444": {
+    "valor": "10,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727667733692630": {
+    "valor": "5,50",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727671072358587": {
+    "valor": "4,50",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727676197798152": {
+    "valor": "3,50",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727678098079986": {
+    "valor": "2,50",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727679566090403": {
+    "valor": "2,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727681415778478": {
+    "valor": "1,50",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727682766213386": {
+    "valor": "1,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727684561371214": {
+    "valor": "0,75",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727706770346067": {
+    "valor": "0,50",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727783442223145": {
+    "valor": "100,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727785740697661": {
+    "valor": "75,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727788705943708": {
+    "valor": "50,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727790702432297": {
+    "valor": "25,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727792539533405": {
+    "valor": "20,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727794145955962": {
+    "valor": "10,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727795945312519": {
+    "valor": "5,50",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727797836808406": {
+    "valor": "4,50",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727820729581751": {
+    "valor": "3,50",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727823283650591": {
+    "valor": "2,50",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727824739209387": {
+    "valor": "2,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727826601607332": {
+    "valor": "1,50",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727829092761744": {
+    "valor": "1,00",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727830368092335": {
+    "valor": "0,75",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727832146346209": {
+    "valor": "0,50",
+    "modo": "2x2",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727841814351934": {
+    "valor": "100,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727844523872326": {
+    "valor": "75,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727846184685760": {
+    "valor": "50,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727847669469185": {
+    "valor": "25,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727848856326383": {
+    "valor": "20,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727850064281683": {
+    "valor": "10,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727870863970476": {
+    "valor": "5,50",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727878359060574": {
+    "valor": "4,50",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727880342962349": {
+    "valor": "3,50",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727882125545575": {
+    "valor": "2,50",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727884449185954": {
+    "valor": "2,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727886202671226": {
+    "valor": "1,50",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727887746171073": {
+    "valor": "1,00",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727889583013990": {
+    "valor": "0,75",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727905429098548": {
+    "valor": "100,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727907027124438": {
+    "valor": "75,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727911754235976": {
+    "valor": "50,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727913444540447": {
+    "valor": "0,50",
+    "modo": "3x3",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727919891320913": {
+    "valor": "25,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727922416291965": {
+    "valor": "20,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727926673506417": {
+    "valor": "10,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727929563254975": {
+    "valor": "5,50",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727931303759963": {
+    "valor": "4,50",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727932889333978": {
+    "valor": "3,50",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727941198385363": {
+    "valor": "2,50",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727942896943326": {
+    "valor": "2,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727944411222202": {
+    "valor": "1,50",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727946659364985": {
+    "valor": "1,00",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727948852723732": {
+    "valor": "0,75",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456727968910151793": {
+    "valor": "0,50",
+    "modo": "4x4",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1456728217401557207": {
+    "jogadores": [
+      {
+        "id": "1371595950568640604"
+      },
+      {
+        "id": "1392230504786559058"
+      }
+    ],
+    "valor": "0,50",
+    "modo": "2x2",
+    "formato": "2x2",
+    "canalId": "1456707551407112507",
+    "status": "match"
+  },
+  "1456825705143734283": {
+    "jogadores": [
+      {
+        "id": "1356400890977980548",
+        "tipo": "Gel Normal"
+      },
+      {
+        "id": "990292313978863658",
+        "tipo": "Gel Normal"
+      }
+    ],
+    "valor": "0,50",
+    "modo": "1x1",
+    "formato": "Gel Normal",
+    "canalId": "1456707516061847604",
+    "status": "match"
+  },
+  "1456825743928721554": {
+    "valor": "0,50",
+    "modo": "1x1",
+    "jogadores": [
+      "990292313978863658",
+      "1356400890977980548"
+    ],
+    "status": "iniciada",
+    "id_mediador": "1356400890977980548"
+  },
+  "1456892996124672127": {
+    "jogadores": [
+      {
+        "id": "1371595950568640604",
+        "tipo": "Gel Normal"
+      },
+      {
+        "id": "1356400890977980548",
+        "tipo": "Gel Normal"
+      }
+    ],
+    "valor": "0,50",
+    "modo": "1x1",
+    "formato": "Gel Normal",
+    "canalId": "1456707516061847604",
+    "status": "match"
+  },
+  "1456893025518354548": {
+    "valor": "0,50",
+    "modo": "1x1",
+    "jogadores": [
+      "1356400890977980548",
+      "1371595950568640604"
+    ],
+    "status": "iniciada",
+    "id_mediador": "1356400890977980548"
+  },
+  "1456918095036682458": {
+    "jogadores": [
+      {
+        "id": "1371595950568640604",
+        "tipo": "Gel Normal"
+      },
+      {
+        "id": "1356400890977980548",
+        "tipo": "Gel Normal"
+      }
+    ],
+    "valor": "0,50",
+    "modo": "1x1",
+    "formato": "Gel Normal",
+    "canalId": "1456707516061847604",
+    "status": "match"
+  },
+  "1456918124736549071": {
+    "valor": "0,50",
+    "modo": "1x1",
+    "jogadores": [
+      "1356400890977980548",
+      "1371595950568640604"
+    ],
+    "status": "iniciada",
+    "id_mediador": "1356400890977980548"
+  },
+  "1457238654694064251": {
+    "jogadores": [
+      {
+        "id": "990292313978863658",
+        "tipo": "Gel Normal"
+      },
+      {
+        "id": "1356400890977980548",
+        "tipo": "Gel Normal"
+      }
+    ],
+    "valor": "0,50",
+    "modo": "1x1",
+    "formato": "Gel Normal",
+    "canalId": "1456707516061847604",
+    "status": "match"
+  },
+  "1457238657592463562": {
+    "jogadores": [
+      {
+        "id": "1356400890977980548"
+      },
+      {
+        "id": "1392230504786559058"
+      }
+    ],
+    "valor": "0,50",
+    "modo": "2x2",
+    "formato": "2x2",
+    "canalId": "1456707519589122168",
+    "status": "match"
+  },
+  "1457238698465951851": {
+    "valor": "0,50",
+    "modo": "1x1",
+    "jogadores": [
+      "990292313978863658",
+      "1356400890977980548"
+    ],
+    "status": "iniciada",
+    "id_mediador": "990292313978863658",
+    "criado_em": 1767503182294,
+    "selectedWinner": "990292313978863658"
+  },
+  "1457239563050287267": {
+    "jogadores": [
+      {
+        "id": "1356400890977980548",
+        "tipo": "Gel Normal"
+      },
+      {
+        "id": "990292313978863658",
+        "tipo": "Gel Normal"
+      }
+    ],
+    "valor": "0,50",
+    "modo": "1x1",
+    "formato": "Gel Normal",
+    "canalId": "1456707516061847604",
+    "status": "match"
+  },
+  "1457239609917444362": {
+    "valor": "0,50",
+    "modo": "1x1",
+    "jogadores": [
+      "990292313978863658",
+      "1356400890977980548"
+    ],
+    "status": "iniciada",
+    "id_mediador": "990292313978863658",
+    "criado_em": 1767503399084
+  },
+  "1457241711645298741": {
+    "jogadores": [
+      {
+        "id": "990292313978863658",
+        "tipo": "Gel Normal"
+      },
+      {
+        "id": "1356400890977980548",
+        "tipo": "Gel Normal"
+      }
+    ],
+    "valor": "0,50",
+    "modo": "1x1",
+    "formato": "Gel Normal",
+    "canalId": "1456707516061847604",
+    "status": "match"
+  },
+  "1457241738367209635": {
+    "valor": "0,50",
+    "modo": "1x1",
+    "jogadores": [
+      "990292313978863658",
+      "1356400890977980548"
+    ],
+    "status": "iniciada",
+    "id_mediador": "990292313978863658",
+    "criado_em": 1767503906709
+  },
+  "1457242464497959126": {
+    "jogadores": [
+      {
+        "id": "1356400890977980548"
+      },
+      {
+        "id": "990292313978863658"
+      }
+    ],
+    "valor": "0,50",
+    "modo": "2x2",
+    "formato": "2x2",
+    "canalId": "1456707519589122168",
+    "status": "match"
+  },
+  "1457242563122823282": {
+    "valor": "0,50",
+    "modo": "2x2",
+    "jogadores": [
+      "990292313978863658",
+      "1356400890977980548"
+    ],
+    "status": "iniciada",
+    "id_mediador": "1356400890977980548",
+    "criado_em": 1767504103818,
+    "selectedWinner": "1356400890977980548"
+  },
+  "1457243884466733139": {
+    "jogadores": [
+      {
+        "id": "990292313978863658"
+      },
+      {
+        "id": "1356400890977980548"
+      }
+    ],
+    "valor": "0,50",
+    "modo": "2x2",
+    "formato": "2x2",
+    "canalId": "1456707519589122168",
+    "status": "match"
+  },
+  "1457244089916330096": {
+    "jogadores": [
+      {
+        "id": "990292313978863658"
+      },
+      {
+        "id": "1356400890977980548"
+      }
+    ],
+    "valor": "0,50",
+    "modo": "2x2",
+    "formato": "2x2",
+    "canalId": "1456707519589122168",
+    "status": "match"
+  },
+  "1457383463069155463": {
+    "jogadores": [
+      {
+        "id": "1451355607591288855",
+        "tipo": "Gel Infinito"
+      },
+      {
+        "id": "1276343266903589027",
+        "tipo": "Gel Infinito"
+      }
+    ],
+    "valor": "0,50",
+    "modo": "1x1",
+    "formato": "Gel Infinito",
+    "canalId": "1456707516061847604",
+    "status": "match"
+  },
+  "1458137417763651708": {
+    "jogadores": [
+      {
+        "id": "1319035832392487023"
+      },
+      {
+        "id": "1270909429210153070"
+      }
+    ],
+    "valor": "0,50",
+    "modo": "3x3",
+    "formato": "3x3",
+    "canalId": "1456707522357362789",
+    "status": "match"
+  },
+  "1459592639740645446": {
+    "jogadores": [
+      {
+        "id": "1356400890977980548",
+        "tipo": "Gel Normal"
+      },
+      {
+        "id": "990292313978863658",
+        "tipo": "Gel Normal"
+      }
+    ],
+    "valor": "0,50",
+    "modo": "1x1",
+    "formato": "Gel Normal",
+    "canalId": "1456707516061847604",
+    "status": "match",
+    "confirmados": [
+      "1356400890977980548"
+    ]
+  },
+  "1483591653066543184": {
+    "valor": "100,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455222797045880",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591654223909096": {
+    "valor": "75,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455222797045880",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591655587188870": {
+    "valor": "50,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455222797045880",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591657348661500": {
+    "valor": "25,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455222797045880",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591658820866060": {
+    "valor": "20,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455222797045880",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591660850905220": {
+    "valor": "10,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455222797045880",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591681004798246": {
+    "valor": "5,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455222797045880",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591682946633800": {
+    "valor": "4,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455222797045880",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591685333061807": {
+    "valor": "3,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455222797045880",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591686603931690": {
+    "valor": "2,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455222797045880",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591687958953994": {
+    "valor": "2,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455222797045880",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591689233760326": {
+    "valor": "1,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455222797045880",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591708838199407": {
+    "valor": "1,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455222797045880",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591709966467193": {
+    "valor": "0,75",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455222797045880",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591711048335371": {
+    "valor": "0,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455222797045880",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591837464658043": {
+    "valor": "100,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455224290218055",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591839217881139": {
+    "valor": "75,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455224290218055",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591841910755471": {
+    "valor": "50,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455224290218055",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591844221812896": {
+    "valor": "25,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455224290218055",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591846214111266": {
+    "valor": "20,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455224290218055",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591853390434474": {
+    "valor": "10,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455224290218055",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591854032158723": {
+    "valor": "5,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455224290218055",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591856221716495": {
+    "valor": "4,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455224290218055",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591859241484451": {
+    "valor": "3,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455224290218055",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591860927594597": {
+    "valor": "2,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455224290218055",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591881374957659": {
+    "valor": "2,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455224290218055",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591880284573949": {
+    "valor": "100,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455225384931348",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591884684398622": {
+    "valor": "75,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455225384931348",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591886122909867": {
+    "valor": "50,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455225384931348",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591883631366199": {
+    "valor": "1,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455224290218055",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591887507034163": {
+    "valor": "25,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455225384931348",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591889130360944": {
+    "valor": "20,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455225384931348",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591893668331722": {
+    "valor": "10,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455225384931348",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591890157965403": {
+    "valor": "1,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455224290218055",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591895115632715": {
+    "valor": "5,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455225384931348",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591896420057190": {
+    "valor": "4,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455225384931348",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591895568617514": {
+    "valor": "0,75",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455224290218055",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591897720295626": {
+    "valor": "0,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455224290218055",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591916078497985": {
+    "valor": "3,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455225384931348",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591918742143189": {
+    "valor": "2,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455225384931348",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591919790723194": {
+    "valor": "2,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455225384931348",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591923678842951": {
+    "valor": "100,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455226697613507",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591922852429895": {
+    "valor": "1,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455225384931348",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591924865564840": {
+    "valor": "75,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455226697613507",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591927315300452": {
+    "valor": "50,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455226697613507",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591927386607687": {
+    "valor": "1,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455225384931348",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591928896290977": {
+    "valor": "0,75",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455225384931348",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591928590241973": {
+    "valor": "25,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455226697613507",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591930209112154": {
+    "valor": "20,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455226697613507",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591931052429435": {
+    "valor": "10,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455226697613507",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591930603376700": {
+    "valor": "0,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455225384931348",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591950450954351": {
+    "valor": "5,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455226697613507",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591952199843860": {
+    "valor": "4,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455226697613507",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591955026939934": {
+    "valor": "3,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455226697613507",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591956352336065": {
+    "valor": "2,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455226697613507",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591957405110383": {
+    "valor": "2,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455226697613507",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591958512402482": {
+    "valor": "1,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455226697613507",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591977504211207": {
+    "valor": "1,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455226697613507",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591980033507468": {
+    "valor": "0,75",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455226697613507",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483591981027426444": {
+    "valor": "0,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455226697613507",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483592151307911358": {
+    "valor": "100,00",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455227943452806",
+    "messageId": "1483592151307911358",
+    "criadaEm": 1773786332961
+  },
+  "1483592157083467886": {
+    "valor": "75,00",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455227943452806",
+    "messageId": "1483592157083467886",
+    "criadaEm": 1773786334226
+  },
+  "1483592162489929891": {
+    "valor": "50,00",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455227943452806",
+    "messageId": "1483592162489929891",
+    "criadaEm": 1773786335580
+  },
+  "1483592168022216787": {
+    "valor": "25,00",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455227943452806",
+    "messageId": "1483592168022216787",
+    "criadaEm": 1773786336800
+  },
+  "1483592173369954374": {
+    "valor": "20,00",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455227943452806",
+    "messageId": "1483592173369954374",
+    "criadaEm": 1773786338145
+  },
+  "1483592178793054340": {
+    "valor": "10,00",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455227943452806",
+    "messageId": "1483592178793054340",
+    "criadaEm": 1773786339389
+  },
+  "1483592184039997520": {
+    "valor": "5,50",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455227943452806",
+    "messageId": "1483592184039997520",
+    "criadaEm": 1773786340605
+  },
+  "1483592189245133064": {
+    "valor": "4,50",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455227943452806",
+    "messageId": "1483592189245133064",
+    "criadaEm": 1773786342180
+  },
+  "1483592195704488109": {
+    "valor": "3,50",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455227943452806",
+    "messageId": "1483592195704488109",
+    "criadaEm": 1773786343467
+  },
+  "1483592201312403580": {
+    "valor": "2,50",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455227943452806",
+    "messageId": "1483592201312403580",
+    "criadaEm": 1773786344908
+  },
+  "1483592202285355089": {
+    "valor": "100,00",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455229109473423",
+    "messageId": "1483592202285355089",
+    "criadaEm": 1773786345109
+  },
+  "1483592207356399800": {
+    "valor": "2,00",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455227943452806",
+    "messageId": "1483592207356399800",
+    "criadaEm": 1773786346448
+  },
+  "1483592208300118120": {
+    "valor": "75,00",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455229109473423",
+    "messageId": "1483592208300118120",
+    "criadaEm": 1773786346645
+  },
+  "1483592214482256015": {
+    "valor": "50,00",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455229109473423",
+    "messageId": "1483592214482256015",
+    "criadaEm": 1773786348017
+  },
+  "1483592220291498154": {
+    "valor": "25,00",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455229109473423",
+    "messageId": "1483592220291498154",
+    "criadaEm": 1773786349315
+  },
+  "1483592213794652291": {
+    "valor": "1,50",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455227943452806",
+    "messageId": "1483592213794652291",
+    "criadaEm": 1773786349330
+  },
+  "1483592225815396382": {
+    "valor": "1,00",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455227943452806",
+    "messageId": "1483592225815396382",
+    "criadaEm": 1773786350582
+  },
+  "1483592225849085973": {
+    "valor": "20,00",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455229109473423",
+    "messageId": "1483592225849085973",
+    "criadaEm": 1773786350667
+  },
+  "1483592230974521454": {
+    "valor": "0,75",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455227943452806",
+    "messageId": "1483592230974521454",
+    "criadaEm": 1773786351834
+  },
+  "1483592231469318346": {
+    "valor": "10,00",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455229109473423",
+    "messageId": "1483592231469318346",
+    "criadaEm": 1773786352018
+  },
+  "1483592236280320010": {
+    "valor": "0,50",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455227943452806",
+    "messageId": "1483592236280320010",
+    "criadaEm": 1773786353127
+  },
+  "1483592236993085703": {
+    "valor": "5,50",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455229109473423",
+    "messageId": "1483592236993085703",
+    "criadaEm": 1773786353493
+  },
+  "1483592242911383714": {
+    "valor": "4,50",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455229109473423",
+    "messageId": "1483592242911383714",
+    "criadaEm": 1773786354846
+  },
+  "1483592249332863089": {
+    "valor": "3,50",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455229109473423",
+    "messageId": "1483592249332863089",
+    "criadaEm": 1773786356434
+  },
+  "1483592249467207735": {
+    "valor": "100,00",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455230124228608",
+    "messageId": "1483592249467207735",
+    "criadaEm": 1773786356781
+  },
+  "1483592255532171334": {
+    "valor": "2,50",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455229109473423",
+    "messageId": "1483592255532171334",
+    "criadaEm": 1773786357693
+  },
+  "1483592257503498280": {
+    "valor": "75,00",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455230124228608",
+    "messageId": "1483592257503498280",
+    "criadaEm": 1773786358237
+  },
+  "1483592260993159400": {
+    "valor": "2,00",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455229109473423",
+    "messageId": "1483592260993159400",
+    "criadaEm": 1773786359098
+  },
+  "1483592263060947014": {
+    "valor": "50,00",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455230124228608",
+    "messageId": "1483592263060947014",
+    "criadaEm": 1773786359454
+  },
+  "1483592266999267381": {
+    "valor": "1,50",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455229109473423",
+    "messageId": "1483592266999267381",
+    "criadaEm": 1773786360559
+  },
+  "1483592268265947349": {
+    "valor": "25,00",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455230124228608",
+    "messageId": "1483592268265947349",
+    "criadaEm": 1773786360877
+  },
+  "1483592272808513629": {
+    "valor": "1,00",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455229109473423",
+    "messageId": "1483592272808513629",
+    "criadaEm": 1773786361923
+  },
+  "1483592274532237434": {
+    "valor": "20,00",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455230124228608",
+    "messageId": "1483592274532237434",
+    "criadaEm": 1773786362292
+  },
+  "1483592278793523371": {
+    "valor": "0,75",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455229109473423",
+    "messageId": "1483592278793523371",
+    "criadaEm": 1773786363264
+  },
+  "1483592280077111347": {
+    "valor": "10,00",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455230124228608",
+    "messageId": "1483592280077111347",
+    "criadaEm": 1773786363521
+  },
+  "1483592284170879009": {
+    "valor": "0,50",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455229109473423",
+    "messageId": "1483592284170879009",
+    "criadaEm": 1773786364531
+  },
+  "1483592285529571431": {
+    "valor": "5,50",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455230124228608",
+    "messageId": "1483592285529571431",
+    "criadaEm": 1773786364922
+  },
+  "1483592291158593670": {
+    "valor": "4,50",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455230124228608",
+    "messageId": "1483592291158593670",
+    "criadaEm": 1773786366189
+  },
+  "1483592296493486100": {
+    "valor": "3,50",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455230124228608",
+    "messageId": "1483592296493486100",
+    "criadaEm": 1773786367428
+  },
+  "1483592301308674252": {
+    "valor": "2,50",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455230124228608",
+    "messageId": "1483592301308674252",
+    "criadaEm": 1773786368831
+  },
+  "1483592307285557393": {
+    "valor": "2,00",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455230124228608",
+    "messageId": "1483592307285557393",
+    "criadaEm": 1773786370075
+  },
+  "1483592312859922636": {
+    "valor": "1,50",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455230124228608",
+    "messageId": "1483592312859922636",
+    "criadaEm": 1773786371530
+  },
+  "1483592318798921870": {
+    "valor": "1,00",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455230124228608",
+    "messageId": "1483592318798921870",
+    "criadaEm": 1773786372772
+  },
+  "1483592324608032911": {
+    "valor": "0,75",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455230124228608",
+    "messageId": "1483592324608032911",
+    "criadaEm": 1773786374397
+  },
+  "1483592331356541038": {
+    "valor": "0,50",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455230124228608",
+    "messageId": "1483592331356541038",
+    "criadaEm": 1773786375887
+  },
+  "1483593904946151596": {
+    "valor": "100,00",
+    "modo": "Teste",
+    "formato": ".",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483593906867142788": {
+    "valor": "75,00",
+    "modo": "Teste",
+    "formato": ".",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483593908096209068": {
+    "valor": "50,00",
+    "modo": "Teste",
+    "formato": ".",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483593909744435424": {
+    "valor": "25,00",
+    "modo": "Teste",
+    "formato": ".",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483593911686397962": {
+    "valor": "20,00",
+    "modo": "Teste",
+    "formato": ".",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483593914035212320": {
+    "valor": "10,00",
+    "modo": "Teste",
+    "formato": ".",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483593916098937035": {
+    "valor": "5,50",
+    "modo": "Teste",
+    "formato": ".",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483593944301437040": {
+    "valor": "4,50",
+    "modo": "Teste",
+    "formato": ".",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483593946394267729": {
+    "valor": "3,50",
+    "modo": "Teste",
+    "formato": ".",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483593947623461047": {
+    "valor": "2,50",
+    "modo": "Teste",
+    "formato": ".",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483593949443526740": {
+    "valor": "2,00",
+    "modo": "Teste",
+    "formato": ".",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483593950576119950": {
+    "valor": "1,50",
+    "modo": "Teste",
+    "formato": ".",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483593952794906796": {
+    "valor": "1,00",
+    "modo": "Teste",
+    "formato": ".",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483593953692356812": {
+    "valor": "0,75",
+    "modo": "Teste",
+    "formato": ".",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483593976559698181": {
+    "valor": "0,50",
+    "modo": "Teste",
+    "formato": ".",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483612624439480330": {
+    "valor": "100,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455222797045880",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612625857151047": {
+    "valor": "75,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455222797045880",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612627149262969": {
+    "valor": "50,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455222797045880",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612628285653174": {
+    "valor": "25,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455222797045880",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612630466822235": {
+    "valor": "20,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455222797045880",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612631641362483": {
+    "valor": "10,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455222797045880",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612651664834570": {
+    "valor": "5,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455222797045880",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612653262999612": {
+    "valor": "4,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455222797045880",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612654516830218": {
+    "valor": "3,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455222797045880",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612655875915918": {
+    "valor": "2,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455222797045880",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612657457172511": {
+    "valor": "2,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455222797045880",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612659977814016": {
+    "valor": "1,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455222797045880",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612661316059157": {
+    "valor": "1,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455222797045880",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612670983803100": {
+    "valor": "100,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455224290218055",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612672275648604": {
+    "valor": "75,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455224290218055",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612673538129991": {
+    "valor": "50,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455224290218055",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612674750152816": {
+    "valor": "25,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455224290218055",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612676562227231": {
+    "valor": "20,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455224290218055",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612677954732032": {
+    "valor": "10,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455224290218055",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612683063267380": {
+    "valor": "0,75",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455222797045880",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612684409901210": {
+    "valor": "0,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455222797045880",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612697869287604": {
+    "valor": "5,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455224290218055",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612700490596393": {
+    "valor": "4,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455224290218055",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612701732110446": {
+    "valor": "3,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455224290218055",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612703040995369": {
+    "valor": "2,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455224290218055",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612704127193108": {
+    "valor": "2,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455224290218055",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612704928436248": {
+    "valor": "1,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455224290218055",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612712385908951": {
+    "valor": "100,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455225384931348",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612714046718085": {
+    "valor": "75,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455225384931348",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612715468718090": {
+    "valor": "50,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455225384931348",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612716777078887": {
+    "valor": "25,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455225384931348",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612719872606420": {
+    "valor": "20,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455225384931348",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612724377419868": {
+    "valor": "1,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455224290218055",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612723802542233": {
+    "valor": "10,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455225384931348",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612725761413160": {
+    "valor": "5,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455225384931348",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612725409218681": {
+    "valor": "0,75",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455224290218055",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612727464296539": {
+    "valor": "0,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455224290218055",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612727489466468": {
+    "valor": "4,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455225384931348",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612747919790161": {
+    "valor": "3,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455225384931348",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612749430001768": {
+    "valor": "2,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455225384931348",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612750977433701": {
+    "valor": "2,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455225384931348",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612753599140010": {
+    "valor": "100,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455226697613507",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612752500097137": {
+    "valor": "1,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455225384931348",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612754756767854": {
+    "valor": "75,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455226697613507",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612755062685696": {
+    "valor": "1,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455225384931348",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612756082036827": {
+    "valor": "0,75",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455225384931348",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612756132499497": {
+    "valor": "50,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455226697613507",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612757147390179": {
+    "valor": "25,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455226697613507",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612759705915505": {
+    "valor": "20,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455226697613507",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612761555603506": {
+    "valor": "10,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455226697613507",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612774679445618": {
+    "valor": "0,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455225384931348",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612780912316516": {
+    "valor": "5,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455226697613507",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612782229327954": {
+    "valor": "4,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455226697613507",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612783441608715": {
+    "valor": "3,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455226697613507",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612785232449608": {
+    "valor": "2,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455226697613507",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612787422007296": {
+    "valor": "2,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455226697613507",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612789032485086": {
+    "valor": "1,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455226697613507",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612808082882622": {
+    "valor": "1,00",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455226697613507",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612810612047882": {
+    "valor": "0,75",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455226697613507",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612812423991418": {
+    "valor": "0,50",
+    "modo": "FULL UMP XM8",
+    "canalId": "1483455226697613507",
+    "tipo": "Gel Normal / Gel Infinito",
+    "jogadores": [],
+    "status": "aberta"
+  },
+  "1483612854841114785": {
+    "valor": "100,00",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455227943452806",
+    "messageId": "1483612854841114785",
+    "criadaEm": 1773791269015
+  },
+  "1483612860268548280": {
+    "valor": "75,00",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455227943452806",
+    "messageId": "1483612860268548280",
+    "criadaEm": 1773791270464
+  },
+  "1483612866522251344": {
+    "valor": "50,00",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455227943452806",
+    "messageId": "1483612866522251344",
+    "criadaEm": 1773791271783
+  },
+  "1483612872251805716": {
+    "valor": "25,00",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455227943452806",
+    "messageId": "1483612872251805716",
+    "criadaEm": 1773791273176
+  },
+  "1483612877863780472": {
+    "valor": "20,00",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455227943452806",
+    "messageId": "1483612877863780472",
+    "criadaEm": 1773791274487
+  },
+  "1483612883341279232": {
+    "valor": "10,00",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455227943452806",
+    "messageId": "1483612883341279232",
+    "criadaEm": 1773791275875
+  },
+  "1483612889402052730": {
+    "valor": "5,50",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455227943452806",
+    "messageId": "1483612889402052730",
+    "criadaEm": 1773791277238
+  },
+  "1483612894854647889": {
+    "valor": "4,50",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455227943452806",
+    "messageId": "1483612894854647889",
+    "criadaEm": 1773791278457
+  },
+  "1483612899913105528": {
+    "valor": "100,00",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455229109473423",
+    "messageId": "1483612899913105528",
+    "criadaEm": 1773791279709
+  },
+  "1483612900055715860": {
+    "valor": "3,50",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455227943452806",
+    "messageId": "1483612900055715860",
+    "criadaEm": 1773791279838
+  },
+  "1483612905848180746": {
+    "valor": "2,50",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455227943452806",
+    "messageId": "1483612905848180746",
+    "criadaEm": 1773791281127
+  },
+  "1483612905361641645": {
+    "valor": "75,00",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455229109473423",
+    "messageId": "1483612905361641645",
+    "criadaEm": 1773791281367
+  },
+  "1483612911254638712": {
+    "valor": "2,00",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455227943452806",
+    "messageId": "1483612911254638712",
+    "criadaEm": 1773791282393
+  },
+  "1483612912135442453": {
+    "valor": "50,00",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455229109473423",
+    "messageId": "1483612912135442453",
+    "criadaEm": 1773791282581
+  },
+  "1483612916744978552": {
+    "valor": "1,50",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455227943452806",
+    "messageId": "1483612916744978552",
+    "criadaEm": 1773791283771
+  },
+  "1483612917382517040": {
+    "valor": "25,00",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455229109473423",
+    "messageId": "1483612917382517040",
+    "criadaEm": 1773791283933
+  },
+  "1483612922482524164": {
+    "valor": "1,00",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455227943452806",
+    "messageId": "1483612922482524164",
+    "criadaEm": 1773791285183
+  },
+  "1483612922788970529": {
+    "valor": "20,00",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455229109473423",
+    "messageId": "1483612922788970529",
+    "criadaEm": 1773791285383
+  },
+  "1483612928337776731": {
+    "valor": "0,75",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455227943452806",
+    "messageId": "1483612928337776731",
+    "criadaEm": 1773791286892
+  },
+  "1483612929185153137": {
+    "valor": "10,00",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455229109473423",
+    "messageId": "1483612929185153137",
+    "criadaEm": 1773791287094
+  },
+  "1483612935392722985": {
+    "valor": "0,50",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455227943452806",
+    "messageId": "1483612935392722985",
+    "criadaEm": 1773791288163
+  },
+  "1483612936411807804": {
+    "valor": "5,50",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455229109473423",
+    "messageId": "1483612936411807804",
+    "criadaEm": 1773791288496
+  },
+  "1483612941868728381": {
+    "valor": "4,50",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455229109473423",
+    "messageId": "1483612941868728381",
+    "criadaEm": 1773791289845
+  },
+  "1483612947749273731": {
+    "valor": "100,00",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455230124228608",
+    "messageId": "1483612947749273731",
+    "criadaEm": 1773791291091
+  },
+  "1483612947887427604": {
+    "valor": "3,50",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455229109473423",
+    "messageId": "1483612947887427604",
+    "criadaEm": 1773791291276
+  },
+  "1483612953021386893": {
+    "valor": "75,00",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455230124228608",
+    "messageId": "1483612953021386893",
+    "criadaEm": 1773791292360
+  },
+  "1483612954091061329": {
+    "valor": "2,50",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455229109473423",
+    "messageId": "1483612954091061329",
+    "criadaEm": 1773791292904
+  },
+  "1483612958012608646": {
+    "valor": "50,00",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455230124228608",
+    "messageId": "1483612958012608646",
+    "criadaEm": 1773791293648
+  },
+  "1483612960583848067": {
+    "valor": "2,00",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455229109473423",
+    "messageId": "1483612960583848067",
+    "criadaEm": 1773791294156
+  },
+  "1483612965138600016": {
+    "valor": "25,00",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455230124228608",
+    "messageId": "1483612965138600016",
+    "criadaEm": 1773791295287
+  },
+  "1483612965927256135": {
+    "valor": "1,50",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455229109473423",
+    "messageId": "1483612965927256135",
+    "criadaEm": 1773791295522
+  },
+  "1483612970608099470": {
+    "valor": "20,00",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455230124228608",
+    "messageId": "1483612970608099470",
+    "criadaEm": 1773791296615
+  },
+  "1483612971560079490": {
+    "valor": "1,00",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455229109473423",
+    "messageId": "1483612971560079490",
+    "criadaEm": 1773791297070
+  },
+  "1483612976178004070": {
+    "valor": "10,00",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455230124228608",
+    "messageId": "1483612976178004070",
+    "criadaEm": 1773791297976
+  },
+  "1483612978111840296": {
+    "valor": "0,75",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455229109473423",
+    "messageId": "1483612978111840296",
+    "criadaEm": 1773791298369
+  },
+  "1483612981861421207": {
+    "valor": "5,50",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455230124228608",
+    "messageId": "1483612981861421207",
+    "criadaEm": 1773791299573
+  },
+  "1483612983547531294": {
+    "valor": "0,50",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455229109473423",
+    "messageId": "1483612983547531294",
+    "criadaEm": 1773791299646
+  },
+  "1483612988593274890": {
+    "valor": "4,50",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455230124228608",
+    "messageId": "1483612988593274890",
+    "criadaEm": 1773791300805
+  },
+  "1483612994029092874": {
+    "valor": "3,50",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455230124228608",
+    "messageId": "1483612994029092874",
+    "criadaEm": 1773791302175
+  },
+  "1483612999523635402": {
+    "valor": "2,50",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455230124228608",
+    "messageId": "1483612999523635402",
+    "criadaEm": 1773791303454
+  },
+  "1483613015466311892": {
+    "valor": "2,00",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455230124228608",
+    "messageId": "1483613015466311892",
+    "criadaEm": 1773791307497
+  },
+  "1483613021765894355": {
+    "valor": "1,50",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455230124228608",
+    "messageId": "1483613021765894355",
+    "criadaEm": 1773791308715
+  },
+  "1483613027260567774": {
+    "valor": "1,00",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455230124228608",
+    "messageId": "1483613027260567774",
+    "criadaEm": 1773791310132
+  },
+  "1483613033300365434": {
+    "valor": "0,75",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455230124228608",
+    "messageId": "1483613033300365434",
+    "criadaEm": 1773791311709
+  },
+  "1483613039600209971": {
+    "valor": "0,50",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "misto",
+    "canalId": "1483455230124228608",
+    "messageId": "1483613039600209971",
+    "criadaEm": 1773791312978
+  },
+  "1483613255086768191": {
+    "valor": "100,00",
+    "modo": "FULL UMP XM8",
+    "formato": "1x1",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613256609169608": {
+    "valor": "75,00",
+    "modo": "FULL UMP XM8",
+    "formato": "1x1",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613257796161602": {
+    "valor": "50,00",
+    "modo": "FULL UMP XM8",
+    "formato": "1x1",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613259667079208": {
+    "valor": "25,00",
+    "modo": "FULL UMP XM8",
+    "formato": "1x1",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613261776814200": {
+    "valor": "20,00",
+    "modo": "FULL UMP XM8",
+    "formato": "1x1",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613263123058760": {
+    "valor": "10,00",
+    "modo": "FULL UMP XM8",
+    "formato": "1x1",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613265702555668": {
+    "valor": "5,50",
+    "modo": "FULL UMP XM8",
+    "formato": "1x1",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613285583556661": {
+    "valor": "4,50",
+    "modo": "FULL UMP XM8",
+    "formato": "1x1",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613287202689137": {
+    "valor": "3,50",
+    "modo": "FULL UMP XM8",
+    "formato": "1x1",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613288632946868": {
+    "valor": "2,50",
+    "modo": "FULL UMP XM8",
+    "formato": "1x1",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613289912209429": {
+    "valor": "2,00",
+    "modo": "FULL UMP XM8",
+    "formato": "1x1",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613291866624152": {
+    "valor": "1,50",
+    "modo": "FULL UMP XM8",
+    "formato": "1x1",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613293749731378": {
+    "valor": "1,00",
+    "modo": "FULL UMP XM8",
+    "formato": "1x1",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613308211826759": {
+    "valor": "100,00",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613309382033533": {
+    "valor": "75,00",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613310929600522": {
+    "valor": "50,00",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613312049614990": {
+    "valor": "25,00",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613312414519386": {
+    "valor": "0,75",
+    "modo": "FULL UMP XM8",
+    "formato": "1x1",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613313320620122": {
+    "valor": "20,00",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613313429540965": {
+    "valor": "0,50",
+    "modo": "FULL UMP XM8",
+    "formato": "1x1",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613315417505915": {
+    "valor": "10,00",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613335474671798": {
+    "valor": "5,50",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613337022369802": {
+    "valor": "4,50",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613337815351459": {
+    "valor": "3,50",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613339924955158": {
+    "valor": "2,50",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613341644750918": {
+    "valor": "2,00",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613343087460496": {
+    "valor": "1,50",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613362729517228": {
+    "valor": "1,00",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613364105121832": {
+    "valor": "0,75",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613365224869968": {
+    "valor": "0,50",
+    "modo": "FULL UMP XM8",
+    "formato": "2x2",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613368702206056": {
+    "valor": "100,00",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613369998114990": {
+    "valor": "75,00",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613371181039666": {
+    "valor": "50,00",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613372493729945": {
+    "valor": "25,00",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613374100148234": {
+    "valor": "20,00",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613375199186974": {
+    "valor": "10,00",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613395906334901": {
+    "valor": "5,50",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613397260964042": {
+    "valor": "4,50",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613400088187101": {
+    "valor": "3,50",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613401992265908": {
+    "valor": "2,50",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613403292500018": {
+    "valor": "2,00",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613404961833050": {
+    "valor": "1,50",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613406287368292": {
+    "valor": "1,00",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613427480924230": {
+    "valor": "0,75",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613428651262016": {
+    "valor": "0,50",
+    "modo": "FULL UMP XM8",
+    "formato": "3x3",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613445935993063": {
+    "valor": "100,00",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613447236092054": {
+    "valor": "75,00",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613449044099102": {
+    "valor": "50,00",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613450570567873": {
+    "valor": "25,00",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613452156272740": {
+    "valor": "20,00",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613452902858814": {
+    "valor": "10,00",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613472968282202": {
+    "valor": "5,50",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613474654523504": {
+    "valor": "4,50",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613476382445611": {
+    "valor": "3,50",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613477602853006": {
+    "valor": "2,50",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613479406538852": {
+    "valor": "2,00",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613480828272671": {
+    "valor": "1,50",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613500222738523": {
+    "valor": "1,00",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613501883945102": {
+    "valor": "0,75",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  },
+  "1483613503154552999": {
+    "valor": "0,50",
+    "modo": "FULL UMP XM8",
+    "formato": "4x4",
+    "jogadores": [],
+    "status": "aberta",
+    "tipoFila": "normal"
+  }
+}
