@@ -1,0 +1,43 @@
+{
+  "1456683005056909322": {
+    "canalFila": "1456674649999016017",
+    "guildId": "1449141199247249509",
+    "analista": null,
+    "tipo": "CMD_ANALISTA",
+    "solicitante": "1371595950568640604",
+    "usuarioSuspeito": "1356400890977980548",
+    "motivo": "teste",
+    "timestamp": 1767370692473,
+    "aceito": false
+  },
+  "1456825862535254047": {
+    "canalFila": "1456825743928721554",
+    "guildId": "1418770232012574874",
+    "analista": "1356400890977980548",
+    "tipo": "CMD_ANALISTA",
+    "solicitante": "1356400890977980548",
+    "usuarioSuspeito": "1356400890977980548",
+    "motivo": "testando",
+    "timestamp": 1767404753070,
+    "aceito": true,
+    "timestampAceite": 1767404769297,
+    "finalizada": true,
+    "resultado": "LIMPO",
+    "timestampFinalizacao": 1767404805033
+  },
+  "1456893407828901949": {
+    "canalFila": "1456893025518354548",
+    "guildId": "1418770232012574874",
+    "analista": "1356400890977980548",
+    "tipo": "CMD_ANALISTA",
+    "solicitante": "1356400890977980548",
+    "usuarioSuspeito": "1356400890977980548",
+    "motivo": "teste",
+    "timestamp": 1767420856334,
+    "aceito": true,
+    "timestampAceite": 1767420860381,
+    "finalizada": true,
+    "resultado": "LIMPO",
+    "timestampFinalizacao": 1767420875325
+  }
+}
