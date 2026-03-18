@@ -1,0 +1,119 @@
+[
+  {
+    "matchId": "1456466005147517092",
+    "timestamp": "2026-01-02T01:55:55.588Z",
+    "jogadores": [
+      "1356400890977980548",
+      "990292313978863658"
+    ],
+    "valor": "0,50",
+    "modo": "1x1",
+    "formato": "Gel Normal",
+    "tipoFila": "1v1",
+    "status": "criado"
+  },
+  {
+    "matchId": "1456466251533783132",
+    "timestamp": "2026-01-02T01:56:54.445Z",
+    "jogadores": [
+      "1356400890977980548",
+      "990292313978863658"
+    ],
+    "valor": "0,50",
+    "modo": "1x1",
+    "formato": "Gel Normal",
+    "tipoFila": "1v1",
+    "status": "criado"
+  },
+  {
+    "matchId": "1456550478434406533",
+    "timestamp": "2026-01-02T07:31:35.639Z",
+    "jogadores": [
+      "1356400890977980548",
+      "1371595950568640604"
+    ],
+    "valor": "0,50",
+    "modo": "1x1",
+    "formato": "Gel Normal",
+    "tipoFila": "1v1",
+    "status": "criado"
+  },
+  {
+    "matchId": "1456550639952990269",
+    "timestamp": "2026-01-02T07:32:14.073Z",
+    "jogadores": [
+      "1371595950568640604",
+      "1356400890977980548"
+    ],
+    "valor": "0,50",
+    "modo": "1x1",
+    "formato": "Gel Infinito",
+    "tipoFila": "1v1",
+    "status": "criado"
+  },
+  {
+    "matchId": "1456552518988599296",
+    "timestamp": "2026-01-02T07:39:42.102Z",
+    "jogadores": [
+      "1356400890977980548",
+      "1371595950568640604"
+    ],
+    "valor": "0,50",
+    "modo": "1x1",
+    "formato": "Gel Normal",
+    "tipoFila": "1v1",
+    "status": "criado"
+  },
+  {
+    "matchId": "1456648032387862622",
+    "timestamp": "2026-01-02T13:59:14.396Z",
+    "jogadores": [
+      "1356400890977980548",
+      "1371595950568640604"
+    ],
+    "valor": "0,50",
+    "modo": "1x1",
+    "formato": "Gel Normal",
+    "tipoFila": "1v1",
+    "status": "criado"
+  },
+  {
+    "matchId": "1456648160087638194",
+    "timestamp": "2026-01-02T13:59:44.789Z",
+    "jogadores": [
+      "1356400890977980548",
+      "1371595950568640604"
+    ],
+    "valor": "0,50",
+    "modo": "1x1",
+    "formato": "Gel Infinito",
+    "tipoFila": "1v1",
+    "status": "criado"
+  },
+  {
+    "matchId": "1456649493570392166",
+    "timestamp": "2026-01-02T14:05:02.720Z",
+    "jogadores": [
+      "1371595950568640604",
+      "1356400890977980548"
+    ],
+    "valor": "0,50",
+    "modo": "1x1",
+    "formato": "Gel Normal",
+    "tipoFila": "1v1",
+    "status": "criado"
+  },
+  {
+    "matchId": "1456674601424781363",
+    "timestamp": "2026-01-02T15:44:48.908Z",
+    "jogadores": [
+      "1356400890977980548",
+      "1371595950568640604"
+    ],
+    "valor": "0,50",
+    "modo": "1x1",
+    "formato": "Gel Normal",
+    "tipoFila": "1v1",
+    "status": "criado"
+  }
+]
