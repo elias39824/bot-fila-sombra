@@ -1,0 +1,3 @@
+# Redeploy trigger
+
+This commit is to trigger a redeploy on Railway.
