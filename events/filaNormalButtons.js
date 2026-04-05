@@ -90,19 +90,19 @@ module.exports = {
       mudou = true;
       await interaction.reply({ content: `${emojis.confirmed_emoji} Você saiu da fila!`, ephemeral: true });
     }
-    if (mudou) {
+        if (mudou) {
       saveFilasDB(filasDB);
-      // Atualiza embed
+      // Atualiza apenas o campo JOGADORES, preservando o resto do embed original
       let jogadoresStr = filasDB[valor].length > 0
         ? filasDB[valor].map(j => `<@${j.id}>`).join('\n')
         : 'Nenhum jogador na fila.';
-      const newEmbed = EmbedBuilder.from(embed)
-        .setFields([
-          { name: `${emojis.command_emoji} MODO`, value: `fila ${modo}`, inline: false },
-          { name: `${emojis._money_emoji} VALOR`, value: `R$ ${valor}`, inline: false },
-          { name: `Formato`, value: formato, inline: false },
-          { name: `${emojis._people_emoji} JOGADORES`, value: jogadoresStr, inline: false }
-        ]);
+      const camposAtualizados = embed.fields.map(f => {
+        if (f.name.includes('JOGADORES')) {
+          return { name: f.name, value: jogadoresStr, inline: f.inline };
+        }
+        return { name: f.name, value: f.value, inline: f.inline };
+      });
+      const newEmbed = EmbedBuilder.from(embed).setFields(camposAtualizados);
       await interaction.message.edit({ embeds: [newEmbed] });
     }
   }
