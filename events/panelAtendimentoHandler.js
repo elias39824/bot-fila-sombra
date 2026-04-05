@@ -21,12 +21,23 @@ function saveAtendimentos(db) {
   fs.writeFileSync(atendimentosPath, JSON.stringify(db, null, 2));
 }
 
+const TICKET_BUTTON_IDS = [
+  'panel_atendimento', 'ticket_definir_design', 'ticket_personalizar',
+  'ticket_add_funcao', 'ticket_remover_funcao', 'ticket_toggle_modo',
+  'ticket_enviar', 'ticket_voltar'
+];
+const TICKET_SELECT_IDS = ['ticket_select_remover_funcao', 'ticket_select', 'ticket_control_select'];
+const TICKET_MODAL_IDS = [
+  'modal_ticket_design', 'modal_ticket_personalizar', 'modal_ticket_add_funcao',
+  'modal_ticket_enviar', 'modal_ticket_adicionar', 'modal_ticket_chamar'
+];
+
 module.exports = {
   name: 'interactionCreate',
   async execute(interaction) {
-    console.log('interactionCreate:', interaction.type, interaction.customId || interaction.commandName || '');
-    // Filtro para só processar selects do painel de tickets
-    if (interaction.isStringSelectMenu() && !['ticket_select_remover_funcao', 'ticket_select', 'ticket_control_select'].includes(interaction.customId)) return;
+    if (interaction.isStringSelectMenu() && !TICKET_SELECT_IDS.includes(interaction.customId)) return;
+    if (interaction.isModalSubmit() && !TICKET_MODAL_IDS.includes(interaction.customId)) return;
+    if (interaction.isChatInputCommand()) return;
 
     // Botão Atendimento do painel
     if (interaction.isButton() && interaction.customId === 'panel_atendimento') {
