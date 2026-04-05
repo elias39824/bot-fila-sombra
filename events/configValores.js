@@ -51,16 +51,28 @@ function registrarAlteracao(usuario, campo, valorAntigo, valorNovo) {
 }
 
 function formatarValoresFila(valoresInput) {
-  let valoresLimpos = valoresInput.replace(/;/g, ',').replace(/\s+/g, ',');
-  const valoresFormatados = valoresLimpos.split(',').map(v => v.trim()).filter(v => v.length > 0);
-  
-  const valoresFinais = valoresFormatados.map(v => {
-    const numericValue = parseFloat(v.replace(',', '.').replace(/[^\d.]/g, ''));
-    if (isNaN(numericValue) || numericValue <= 0) return null;
-    return numericValue.toFixed(2).replace('.', ',');
+  const input = valoresInput.trim();
+
+  // Tenta extrair valores no formato brasileiro "X,XX" (virgula = decimal)
+  // Ex: "100,90,75,00,50,40" -> ["100,90", "75,00", "50,40"]
+  const brMatches = input.match(/d+,d+/g);
+  if (brMatches && brMatches.length > 0) {
+    return brMatches.map(v => {
+      const num = parseFloat(v.replace(',', '.'));
+      if (isNaN(num) || num <= 0) return null;
+      return num.toFixed(2).replace('.', ',');
+    }).filter(v => v !== null);
+  }
+
+  // Fallback: separa por ponto-e-virgula, espaco ou virgula (formato com ponto decimal)
+  const parts = input.replace(/;/g, ' ').replace(/,/g, ' ').split(/s+/)
+    .map(v => v.trim()).filter(v => v.length > 0);
+
+  return parts.map(v => {
+    const num = parseFloat(v.replace(/[^d.]/g, ''));
+    if (isNaN(num) || num <= 0) return null;
+    return num.toFixed(2).replace('.', ',');
   }).filter(v => v !== null);
-  
-  return valoresFinais;
 }
 
 module.exports = {
