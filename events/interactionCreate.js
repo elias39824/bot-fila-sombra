@@ -1,11 +1,11 @@
 const client = require("../index")
-const { EmbedBuilder, ChannelType, ButtonBuilder, ButtonStyle, ActionRowBuilder, ModalBuilder, TextInputBuilder, TextInputStyle, StringSelectMenuBuilder, StringSelectMenuOptionBuilder } = require("discord.js")
+const { EmbedBuilder, ChannelType, ButtonBuilder, ButtonStyle, ActionRowBuilder, ModalBuilder, TextInputBuilder, TextInputStyle, StringSelectMenuBuilder, StringSelectMenuOptionBuilder, ChannelSelectMenuBuilder } = require("discord.js")
 
 module.exports = {
   name: "interactionCreate",
   run: async (interaction) => {
     
-    if (!interaction.isButton() && !interaction.isModalSubmit() && !interaction.isStringSelectMenu()) return;
+    if (!interaction.isButton() && !interaction.isModalSubmit() && !interaction.isStringSelectMenu() && !interaction.isChannelSelectMenu()) return;
     
     // ID da categoria fixa
     const CATEGORIA_ID = "1492624280180232342";
@@ -591,7 +591,85 @@ module.exports = {
       return interaction.editReply({ embeds: [embed], components: [row1, row2] }).catch(() => {});
     }
 
-    // ========== BOTÃO CONFIRMAR MATCH ==========
+
+      // ========== HANDLERS DOS BOTÕES DE PERSONALIZAR ==========
+
+      const abrirModalPersonalizar = async (customId, titulo, label, placeholder) => {
+        const modal = new ModalBuilder().setCustomId(customId).setTitle(titulo);
+        modal.addComponents(new ActionRowBuilder().addComponents(
+          new TextInputBuilder()
+            .setCustomId("valor_input")
+            .setLabel(label)
+            .setPlaceholder(placeholder)
+            .setStyle(TextInputStyle.Short)
+            .setRequired(true)
+        ));
+        return interaction.showModal(modal).catch(() => {});
+      };
+
+      if (interaction.customId === "personalizar_cor") {
+        return abrirModalPersonalizar("personalizar_modal_cor", "🎨 Cor da Embed", "Cor em hexadecimal", "Ex: #5865F2");
+      }
+      if (interaction.customId === "personalizar_banner") {
+        return abrirModalPersonalizar("personalizar_modal_banner", "🖼️ Banner (Footer)", "URL da imagem", "Ex: https://exemplo.com/banner.png");
+      }
+      if (interaction.customId === "personalizar_thumbnail") {
+        return abrirModalPersonalizar("personalizar_modal_thumbnail", "🖼️ Thumbnail", "URL da imagem", "Ex: https://exemplo.com/thumb.png");
+      }
+      if (interaction.customId === "personalizar_titulo") {
+        return abrirModalPersonalizar("personalizar_modal_titulo", "🏷️ Título da Embed", "Novo título", "Ex: CAVALO APOSTAS");
+      }
+      if (interaction.customId === "personalizar_autor") {
+        return abrirModalPersonalizar("personalizar_modal_autor", "👤 Nome do Autor", "Nome do autor", "Ex: CAVALO E-SPORTS");
+      }
+      if (interaction.customId === "personalizar_autor_icone") {
+        return abrirModalPersonalizar("personalizar_modal_autor_icone", "🖼️ Ícone do Autor", "URL da imagem", "Ex: https://exemplo.com/icone.png");
+      }
+
+      if (interaction.customId === "personalizar_reset") {
+        await interaction.deferReply({ ephemeral: true }).catch(() => {});
+        client.database.delete(`config_${interaction.guild.id}`);
+        return interaction.editReply({ content: "🔄 | Todas as configurações foram resetadas para o padrão!" }).catch(() => {});
+      }
+
+      // ---- MODAIS DE PERSONALIZAR ----
+      const salvarPersonalizar = async (campo, valor, msgSucesso) => {
+        await interaction.deferReply({ ephemeral: true }).catch(() => {});
+        const cfg = client.database.get(`config_${interaction.guild.id}`) || {};
+        cfg[campo] = valor;
+        client.database.set(`config_${interaction.guild.id}`, cfg);
+        return interaction.editReply({ content: msgSucesso }).catch(() => {});
+      };
+
+      if (interaction.customId === "personalizar_modal_cor") {
+        const valor = interaction.fields.getTextInputValue("valor_input");
+        const hex = valor.replace("#", "");
+        if (!/^[0-9A-Fa-f]{6}$/.test(hex))
+          return (await interaction.deferReply({ ephemeral: true })) && interaction.editReply({ content: "❌ | Cor inválida! Use formato hex. Ex: `#5865F2`" }).catch(() => {});
+        return salvarPersonalizar("cor", `#${hex.toUpperCase()}`, `✅ | Cor alterada para `#${hex.toUpperCase()}`!`);
+      }
+      if (interaction.customId === "personalizar_modal_banner") {
+        const valor = interaction.fields.getTextInputValue("valor_input");
+        return salvarPersonalizar("banner", valor, "✅ | Banner atualizado!");
+      }
+      if (interaction.customId === "personalizar_modal_thumbnail") {
+        const valor = interaction.fields.getTextInputValue("valor_input");
+        return salvarPersonalizar("thumbnail", valor, "✅ | Thumbnail atualizada!");
+      }
+      if (interaction.customId === "personalizar_modal_titulo") {
+        const valor = interaction.fields.getTextInputValue("valor_input");
+        return salvarPersonalizar("titulo", valor, `✅ | Título alterado para **${valor}**!`);
+      }
+      if (interaction.customId === "personalizar_modal_autor") {
+        const valor = interaction.fields.getTextInputValue("valor_input");
+        return salvarPersonalizar("autor", valor, `✅ | Autor alterado para **${valor}**!`);
+      }
+      if (interaction.customId === "personalizar_modal_autor_icone") {
+        const valor = interaction.fields.getTextInputValue("valor_input");
+        return salvarPersonalizar("autorIcone", valor, "✅ | Ícone do autor atualizado!");
+      }
+
+      // ========== BOTÃO CONFIRMAR MATCH ==========
     if (interaction.customId === "confirmar_match") {
       await interaction.deferReply({ flags: ["Ephemeral"] }).catch(() => {});
       
