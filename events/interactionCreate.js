@@ -646,7 +646,8 @@ module.exports = {
         const hex = valor.replace("#", "");
         if (!/^[0-9A-Fa-f]{6}$/.test(hex))
           return (await interaction.deferReply({ ephemeral: true })) && interaction.editReply({ content: "❌ | Cor inválida! Use formato hex. Ex: `#5865F2`" }).catch(() => {});
-        return salvarPersonalizar("cor", `#${hex.toUpperCase()}`, `✅ | Cor alterada para `#${hex.toUpperCase()}`!`);
+        const corFormatada = `#${hex.toUpperCase()}`;
+        return salvarPersonalizar("cor", corFormatada, `✅ | Cor alterada para ${corFormatada}!`);
       }
       if (interaction.customId === "personalizar_modal_banner") {
         const valor = interaction.fields.getTextInputValue("valor_input");
