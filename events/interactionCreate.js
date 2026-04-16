@@ -316,22 +316,14 @@ module.exports = {
         fila_mod_misto:    { nome: "Misto",    emoji: "🔀", isMisto: true  }
       };
       const mod = modMap[modKey];
-      const canaisTexto = [...interaction.guild.channels.cache.filter(c => c.type === 0).values()].slice(0, 25);
       const embed = new EmbedBuilder()
         .setTitle(`📢 | Canal — ${mod.nome} ${tipo}`)
         .setDescription(`Selecione o canal para a fila de **${mod.nome} ${tipo}**:`)
         .setColor(0x5865f2);
-      const selectMenu = new StringSelectMenuBuilder()
+      const selectMenu = new ChannelSelectMenuBuilder()
         .setCustomId(`fila_canal_select_${modKey}_${tipo}`)
         .setPlaceholder("📢 Selecione um canal...")
-        .addOptions(
-          canaisTexto.map(c =>
-            new StringSelectMenuOptionBuilder()
-              .setLabel(`#${c.name}`.slice(0, 100))
-              .setValue(c.id)
-              .setDescription(c.parent ? `em ${c.parent.name}`.slice(0, 100) : "Canal de texto")
-          )
-        );
+        .setChannelTypes(ChannelType.GuildText);
       const rowSelect = new ActionRowBuilder().addComponents(selectMenu);
       const rowVoltar = new ActionRowBuilder().addComponents(
         new ButtonBuilder().setCustomId(modKey).setLabel("⬅️ Voltar").setStyle(ButtonStyle.Secondary)
@@ -339,8 +331,8 @@ module.exports = {
       return interaction.editReply({ embeds: [embed], components: [rowSelect, rowVoltar] }).catch(() => {});
     }
 
-    // ---- CANAL ESCOLHIDO VIA SELECT MENU ----
-    if (interaction.customId.startsWith("fila_canal_select_")) {
+    // ---- CANAL ESCOLHIDO VIA CHANNEL SELECT MENU ----
+    if (interaction.isChannelSelectMenu() && interaction.customId.startsWith("fila_canal_select_")) {
       if (!interaction.member.permissions.has("Administrator"))
         return interaction.reply({ content: "❌ | Sem permissão!", ephemeral: true });
       await interaction.deferReply({ ephemeral: true }).catch(() => {});
