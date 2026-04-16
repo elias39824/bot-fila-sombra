@@ -1,5 +1,9 @@
 [phases.install]
-cmds = ["npm install"]
+  cmds = ["npm install --production=false"]
 
-[start]
-cmd = "node src/index.js"
+  [phases.build]
+  cmds = []
+
+  [start]
+  cmd = "node src/index.js"
+  
